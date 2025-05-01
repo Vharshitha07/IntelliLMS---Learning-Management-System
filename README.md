@@ -33,14 +33,14 @@ Upload new courses and quizzes
 Manage all courses in a structured view
 Track enrollments (optional)
 
-BACKEND SETUP:
+# BACKEND SETUP:
 
 cd server
 npm install
-# Add your MongoDB URI, JWT secret, Razorpay keys to `.env`
+#Add your MongoDB URI, JWT secret, Razorpay keys to `.env`
 npm run dev
 
-SAMPLE .env file 
+# SAMPLE .env file 
 MONGO_URI=your_mongo_db_uri
 JWT_SECRET=your_jwt_secret
 RAZORPAY_KEY_ID=your_razorpay_key
@@ -49,7 +49,7 @@ EMAIL_USER=your_email
 EMAIL_PASS=your_email_password_or_app_password
 
 
-FRONTEND SETUP:
+# FRONTEND SETUP:
 
 cd client
 npm install
