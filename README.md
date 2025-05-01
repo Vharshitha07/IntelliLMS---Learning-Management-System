@@ -4,9 +4,11 @@ A full-featured Learning Management System built using the MERN Stack (MongoDB, 
 🚀 Features
 
 🔐 Authentication & Authorization
+
 Role-based login for Admin and Student
 
 JWT-based session management
+
 Secure routes for Admin actions
 
 📚 Course Management
