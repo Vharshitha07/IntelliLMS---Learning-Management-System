@@ -2,6 +2,7 @@
 A full-featured Learning Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). This platform allows Admins to upload courses and quizzes, and Students to enroll in courses, attempt quizzes, and track their progress. It also includes payment gateway integration using Razorpay and email confirmation.
 
 🚀 Features
+
 🔐 Authentication & Authorization
 Role-based login for Admin and Student
 
